@@ -1,0 +1,7 @@
+bin/
+main
+
+.env
+*.env
+
+.idea/
