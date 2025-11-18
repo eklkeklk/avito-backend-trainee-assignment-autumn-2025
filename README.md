@@ -6,6 +6,7 @@ test assignment for an internship position as a backend developer at Avito
 ```bash
 cp .env.example .env
 ```
+p.s: после исправления этот шаг необязателен (в docker-compose.yml добавлены значения по умолчанию)
 
 - Для запуска проекта необходимо перейти в корень проекта и ввести в консоли команду:
 ```bash
